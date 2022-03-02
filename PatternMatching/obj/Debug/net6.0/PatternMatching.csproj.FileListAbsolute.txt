@@ -1,0 +1,12 @@
+C:\repos\PatternMatchingInDotnet\PatternMatching\bin\Debug\net6.0\PatternMatching.deps.json
+C:\repos\PatternMatchingInDotnet\PatternMatching\bin\Debug\net6.0\PatternMatching.dll
+C:\repos\PatternMatchingInDotnet\PatternMatching\bin\Debug\net6.0\ref\PatternMatching.dll
+C:\repos\PatternMatchingInDotnet\PatternMatching\bin\Debug\net6.0\PatternMatching.pdb
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.AssemblyReference.cache
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfoInputs.cache
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfo.cs
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.dll
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\ref\PatternMatching.dll
+C:\repos\PatternMatchingInDotnet\PatternMatching\obj\Debug\net6.0\PatternMatching.pdb
